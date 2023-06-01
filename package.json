@@ -1,6 +1,6 @@
 {
   "name": "oche-mobile-menu",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This a package for implementing basic mobile menu functionalities",
   "main": "dist/index.js",
   "scripts": {

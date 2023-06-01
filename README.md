@@ -25,7 +25,7 @@ like revealing and hiding mobile menus and also trigerring mobile menu animation
 </button>
 
 <!-- Copy and paste the script tags into your HTML file if you're not using a module bundler like webpack -->
-<script src="https://unpkg.com/oche-mobile-menu@1.0.0/dist/index.js"></script>
+<script src="https://unpkg.com/oche-mobile-menu@1.0.3/dist/index.js"></script>
 <script src="./index.js"></script>
 ```
 
