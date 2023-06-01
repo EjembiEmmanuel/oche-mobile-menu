@@ -1,7 +1,7 @@
 {
   "name": "oche-mobile-menu",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.2",
+  "description": "This a package for implementing basic mobile menu functionalities",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

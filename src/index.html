@@ -7,6 +7,20 @@
     <title><%= htmlWebpackPlugin.options.title %></title>
 </head>
 <body>
-    
+    <button class="menu-toggle" id="menu-toggle" data-toggle="menu">
+        <img src="<%=require('./assets/icons/menu_icon.svg')%>" alt="menu toggle button">
+    </button>
+
+    <div class="menu" id="menu">
+        <div class="menu-item">Home</div>
+        <div class="menu-item">About</div>
+        <div class="menu-item">Services</div>
+        <div class="menu-item">Contact</div>
+        <div class="menu-item">FAQ</div>
+    </div>
+
+    <button class="close-btn" id="close-btn" data-toggle="menu">
+        <img src="<%=require('./assets/icons/close_icon.svg')%>" alt="menu close button">
+    </button>
 </body>
 </html>
